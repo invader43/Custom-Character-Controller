@@ -1,4 +1,4 @@
-# Simple Custom 3rd Person Character Controller
+# A Simple Custom 3rd Person Character Controller
 
 This repository contains a Unity project showcasing a game character created using primitive shapes. All the components are written from scratch and requires no additional packages except for rendering text (TMPro) and Unity 2022.3.4f1.
 
